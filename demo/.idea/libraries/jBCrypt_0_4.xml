@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jBCrypt-0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jBCrypt-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-mail-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/controlsfx-8.40.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
